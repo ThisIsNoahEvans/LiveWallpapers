@@ -14,4 +14,4 @@ Looped videos of iOS Live Wallpapers — apply to your jailbroken home screen fo
 **That's it!** Enjoy your new wallpapers.
 
 # Please Note
-I did not develop the tweak. I have simply produced the looping wallpapers using the existing Live wallpapers in iOS. The tweak was made by [Zerui18](https://github.com/zerui18).
+I did not develop the tweak. I have simply produced the looping wallpapers using the existing Live wallpapers in iOS. The tweak was made by [Zerui18](https://github.com/zerui18/Frame).
