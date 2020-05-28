@@ -14,4 +14,7 @@ Looped videos of iOS Live Wallpapers — apply to your jailbroken home screen fo
 **That's it!** Enjoy your new wallpapers.
 
 # Please Note
-I did not develop the tweak. I have simply produced the looping wallpapers using the existing Live wallpapers in iOS. The tweak was made by [Zerui18](https://github.com/zerui18/Frame).
+* I did not develop the tweak. I have simply produced the looping wallpapers using the existing Live Wallpapers in iOS. The tweak was made by [Zerui18](https://github.com/zerui18/Frame).
+* The Live Wallpapers from iPhone 6s to iPhone 8 are the same, and iPhone XR does not have Live Wallpapers.
+* iPhone 11 is currently missing two wallpapers - these are coming soon.
+* I will not be maintaining this repository beyond essential maintenance - if you find an issue, please [email me](mailto:live.wallpapers@itsnoahevans.co.uk).
