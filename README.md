@@ -1,7 +1,7 @@
 # LiveWallpapers
 Looped videos of iOS Live Wallpapers — apply to your jailbroken home screen for a cool look
 
-## How to Apply
+# How to Apply
 * On your iOS device, open this repo in Safari and find the wallpaper you'd like.
 * Tap **Download** on its page. When the video opens in Safari, tap **Share** and **Save to Files**. It's best that you save it to *'On My iPhone'*.
 * Open your package manager and add the source **[https://zerui18.github.io/zxo2](https://zerui18.github.io/zxo2)**.
