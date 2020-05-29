@@ -1,6 +1,8 @@
 # LiveWallpapers
 Looped videos of iOS Live Wallpapers — apply to your jailbroken home screen for a cool look
 
+## Problems
+I've identified a small bug in some of the wallpapers where a single frame of the iPhone XS wallpaper is visible before the normal wallpaper starts playing. This will be fixed soon, and I'll update this message and repo when I have fixed it. Thanks for the understanding and I apologise!
 # How to Apply
 * On your iOS device, open this repo in Safari and find the wallpaper you'd like.
 * Tap **Download** on its page. When the video opens in Safari, tap **Share** and **Save to Files**. It's best that you save it to *'On My iPhone'*.
