@@ -19,5 +19,4 @@ I've identified a small bug in some of the wallpapers where a single frame of th
 * I did not develop the tweak. I have simply produced the looping wallpapers using the existing Live Wallpapers in iOS. The tweak was made by [Zerui18](https://github.com/zerui18/Frame).
 * The Live Wallpapers from iPhone 6s to iPhone 8 are the same, and iPhone XR does not have Live Wallpapers.
 * iPhone 11 is currently missing two wallpapers - these are coming soon.
-* Wallpapers from iPhone XS have a frame from another iPhone XS wallpaper at the start - this is a known issue and is not caused by the process of reversing the video to make the loop, instead it is an issue with the raw files from iOS
 * I will not be maintaining this repository beyond essential maintenance - if you find an issue, please [email me](mailto:live.wallpapers@itsnoahevans.co.uk).
