@@ -1,4 +1,5 @@
-# LiveWallpapers
+# LiveWallpapers [ARCHIVED]
+# This repo has been archived indefinitely. I might pick it up again in the future, but for now, I wouldn't recommend downloading any wallpapers due to the error below.
 Looped videos of iOS Live Wallpapers — apply to your jailbroken home screen for a cool look
 
 ## Problems
