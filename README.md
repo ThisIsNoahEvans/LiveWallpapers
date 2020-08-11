@@ -1,10 +1,8 @@
-# LiveWallpapers [ARCHIVED]
-# This repo has been archived indefinitely. I might pick it up again in the future, but for now, I wouldn't recommend downloading any wallpapers due to the error below.
+# Live Wallpapers
+### This repo was previously archived due to technical issues. It will be restored soon.
 Looped videos of iOS Live Wallpapers — apply to your jailbroken home screen for a cool look
 
-## Problems
-I've identified a small bug in some of the wallpapers where a single frame of the iPhone XS wallpaper is visible before the normal wallpaper starts playing. This will be fixed soon, and I'll update this message and repo when I have fixed it. Thanks for the understanding and I apologise!
-# How to Apply
+## How to Apply
 * On your iOS device, open this repo in Safari and find the wallpaper you'd like.
 * Tap **Download** on its page. When the video opens in Safari, tap **Share** and **Save to Files**. It's best that you save it to *'On My iPhone'*.
 * Open your package manager and add the source **[https://zerui18.github.io/zxo2](https://zerui18.github.io/zxo2)**.
@@ -16,7 +14,7 @@ I've identified a small bug in some of the wallpapers where a single frame of th
 
 **That's it!** Enjoy your new wallpapers.
 
-# Please Note
+## Please Note
 * I did not develop the tweak. I have simply produced the looping wallpapers using the existing Live Wallpapers in iOS. The tweak was made by [Zerui18](https://github.com/zerui18/Frame).
 * The Live Wallpapers from iPhone 6s to iPhone 8 are the same, and iPhone XR does not have Live Wallpapers.
 * iPhone 11 is currently missing two wallpapers - these are coming soon.
